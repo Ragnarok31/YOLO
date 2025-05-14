@@ -1,0 +1,5 @@
+train: C:/Users/Dell/Desktop/YOLO/data/images/train
+val: C:/Users/Dell/Desktop/YOLO/data/images/valid
+
+nc: 5
+names: ['Bed', 'Chair', 'Sofa', 'Table', 'Lamp']

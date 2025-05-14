@@ -1,0 +1,5 @@
+ultralytics       # YOLOv8 framework
+opencv-python     # Webcam + image handling
+flask             # Simple API / chatbot backend
+numpy             # Array ops
+torch             # PyTorch (if not pulled by ultralytics)
